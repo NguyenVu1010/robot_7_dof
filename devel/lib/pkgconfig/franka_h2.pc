@@ -1,8 +1,0 @@
-prefix=/home/nguyen1/seven_dof_ws/devel
-
-Name: franka_h2
-Description: Description of franka_h2
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

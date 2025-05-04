@@ -1,8 +1,0 @@
-prefix=/home/nguyen1/seven_dof_ws/devel
-
-Name: visual_servo_test
-Description: Description of visual_servo_test
-Version: 0.0.0
-Cflags: -I/home/nguyen1/seven_dof_ws/devel/include -I/home/nguyen1/seven_dof_ws/src/visual_servo_test/include
-Libs: -L${prefix}/lib 
-Requires: roscpp tf

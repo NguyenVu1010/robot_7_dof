@@ -1,8 +1,0 @@
-prefix=/home/nguyen1/seven_dof_ws/devel
-
-Name: arm_hand
-Description: Description of arm_hand
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
